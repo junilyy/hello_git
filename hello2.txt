@@ -2,9 +2,3 @@ asdf
 
 
 asdfasdfkjqlwerhqkjlsadf
-
-<<<<<<< HEAD
-asdfkoqjwlrlw
-=======
-asdf
->>>>>>> c3778fa6d626a91edd87f999f1831a17602be8e7
