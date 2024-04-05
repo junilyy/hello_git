@@ -3,11 +3,6 @@ asdf
 
 asdfasdfkjqlwerhqkjlsadf
 
-<<<<<<< HEAD
 asldfasd;f
 
 asdfaskjqhtelthqwehfaksld
-=======
-
-sadfjals;dfjq;
->>>>>>> 5d74dfc281fa4e02312e0abddfbeaf64805b5c8f
